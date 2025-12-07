@@ -10,7 +10,7 @@
 	</parent>
 
 	<groupId>tn.m104.rh</groupId>
-	<artifactId>school</artifactId>
+	<artifactId>school-devops</artifactId>
 	<version>1.0.0</version>
 	<name>school</name>
 	<description>school</description>
